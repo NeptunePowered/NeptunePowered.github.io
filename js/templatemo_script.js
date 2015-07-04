@@ -24,18 +24,6 @@ jQuery(function($) {
             scrollTo('#templatemo-top');
         });
 
-        // scroll to specific id when click on menu
-        $('.templatemo-top-menu .navbar-nav a').click(function(e){
-            e.preventDefault(); 
-            var linkId = $(this).attr('href');
-            scrollTo(linkId);
-            if($('.navbar-toggle').is(":visible") == true){
-                $('.navbar-collapse').collapse('toggle');
-            }
-            $(this).blur();
-            return false;
-        });
-
         // to stick navbar on top
         $('.templatemo-top-menu ').stickUp();
 
