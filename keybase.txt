@@ -1,0 +1,68 @@
+==================================================================
+https://keybase.io/jamierocks
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://neptunepowered.org
+  * I am jamierocks (https://keybase.io/jamierocks) on keybase.
+  * I have a public key with fingerprint C076 873C 4C34 3CBB 216E  D420 27F6 918C 0D47 DF94
+
+To do so, I am signing this object:
+
+{
+    "body": {
+        "key": {
+            "eldest_kid": "0101c0216b13b6087cd2e6d892158c81c563210aad1392a245dfaeebd65d0bb255bf0a",
+            "fingerprint": "c076873c4c343cbb216ed42027f6918c0d47df94",
+            "host": "keybase.io",
+            "key_id": "27f6918c0d47df94",
+            "kid": "0101c0216b13b6087cd2e6d892158c81c563210aad1392a245dfaeebd65d0bb255bf0a",
+            "uid": "eb61b62e4579e39fa140dad4fed86119",
+            "username": "jamierocks"
+        },
+        "service": {
+            "hostname": "neptunepowered.org",
+            "protocol": "https:"
+        },
+        "type": "web_service_binding",
+        "version": 1
+    },
+    "ctime": 1448195988,
+    "expire_in": 157680000,
+    "prev": "4535bbdcb8021ea86d643ca196796537b482516b7b1da2fb0af3f1b1374155b5",
+    "seqno": 26,
+    "tag": "signature"
+}
+
+which yields the signature:
+
+-----BEGIN PGP MESSAGE-----
+Version: Keybase OpenPGP v2.0.49
+Comment: https://keybase.io/crypto
+
+yMIxAnicrVJbSBVBGD6nizeyVKLMUmwJAjHb2cvs7nkIH0pfTJKgIqzDzs7scb3s
+HnfXYyVCIEV0AUvDNIqki71EqKSWaDezRNAsjhVIN7qhPkVEWmSzYm89Ng8zzD/f
+9833fzMDiYt9Cf6N30+fTMx/0+gfvn+pyrerqLuxhkEWPsgEapgyMr+QckwcN1hm
+YCbAsIAFGssBiACPICtLGuYIxLLCAVHWZKCJkOcAq6oY8AqncoKIdZUQhKGIWYQ4
+UUQ6qzLZjG6YIWKHbcN0qazGSlCWeE3QeIHXKA5AggWO5SQdKkDWWCxIWFcESiyx
+HI9BzSHVITmGRWt0E5y39w/8f/ZdNS9HEAQIckQQJYXwiq4CgcUqFnSCZQiA4gEd
+YptqBaHoUrXCILallTlMbTZD6xFDI160Xi8LGJOE3So6WdXEJjjHskNUI2xbrqVZ
+5fS8xHXDTsDjuwfDHqGaoOCCVBAZJqZ5UkaE2I5hmUwAUKTmGp42EAQZKKIiy9kM
+ORA2bBI0PIRIM2fp8O4hESopiLyIENaQTJMiqgwxpK+hAgVKChR5CQkyJ9IIJQSw
+yumIVXVeBzRRSQA0IJHxmqs0LSbAQepTDVFNxwiZqltlE6b2wb3iJT5/gi9m6SLv
+o/kS4pP+fj/9bOzc1mhM0c0Tm2+8n3mU9nHc7OdaL67JnNTuXrDQ4Si/OiVtT8L0
+086HPwYKB+Irfk023bGPr683ButWf44+uXaq/rK1Y9X1mW1jV6pDbWMjzkTBpobu
+scqxyIPxod70rrb2FCWcn3vu07MVyY/bauMn+8KHZnfO9d5r7/KffL23pCC27k2n
+/9axZb99Uz3HW4YmzqzcFH2+f43wYXg6vnD2mdm0JZqWCjPk1G0vb7eMRkafH00L
+doAvrblO3lurJ+5L5trS4t3Trx5tWNaXvq4TzzXAaPDy4JFvqDBr8O725XHJGc3K
+xNWsF+eD7zqG9+d1jCT1x1QK/n0971oyv041/2y+9gcGBEwK
+=XAlU
+-----END PGP MESSAGE-----
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/jamierocks
+
+==================================================================
